@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "asset-list.md",
+                "file": "logs/идея игры.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asset-list"
+              "title": "идея игры"
             }
           }
         ],
@@ -151,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asset-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "asset-list 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -170,12 +169,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "asset-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "asset-list 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -213,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asset-list.md",
+                "file": "未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "asset-list 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -251,8 +249,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60f253f104296f37",
+  "active": "fac14106f15d6a39",
   "lastOpenFiles": [
+    "GDD.md",
+    "logs/идея игры.md",
+    "asset-list.md",
+    "reports 1",
+    "未命名.md",
     "media/3d",
     "media/video",
     "media/audio",
@@ -262,11 +265,8 @@
     "images",
     "workflows",
     "reports",
-    "logs",
     "promt-log.md",
-    "asset-list.md",
     "index.md",
-    "README.md",
-    "GDD.md"
+    "README.md"
   ]
 }
