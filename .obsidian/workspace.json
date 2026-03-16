@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "logs/идея игры.md",
+                "file": "GDD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "идея игры"
+              "title": "GDD"
             }
           }
         ],
@@ -251,8 +251,11 @@
   },
   "active": "fac14106f15d6a39",
   "lastOpenFiles": [
+    "logs/Журнал обновления игры.md",
     "GDD.md",
-    "logs/идея игры.md",
+    "README.md",
+    "promt-log.md",
+    "index.md",
     "asset-list.md",
     "reports 1",
     "未命名.md",
@@ -264,9 +267,6 @@
     "images/selected",
     "images",
     "workflows",
-    "reports",
-    "promt-log.md",
-    "index.md",
-    "README.md"
+    "reports"
   ]
 }
