@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GDD.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GDD"
+              "title": "README.md"
             }
           },
           {
@@ -251,10 +251,10 @@
   },
   "active": "c7e80920eff6d910",
   "lastOpenFiles": [
+    "GDD.md",
     "logs/gdd-log.md.md",
     "logs/Журнал обновления игры.md",
     "README.md.md",
-    "GDD.md",
     "promt-log.md",
     "index.md",
     "asset-list.md",
