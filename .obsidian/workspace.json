@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "logs/Журнал обновления игры.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Журнал обновления игры"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,11 +249,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fac14106f15d6a39",
+  "active": "c7e80920eff6d910",
   "lastOpenFiles": [
-    "logs/Журнал обновления игры.md",
+    "README.md.md",
     "GDD.md",
-    "README.md",
+    "logs/Журнал обновления игры.md",
     "promt-log.md",
     "index.md",
     "asset-list.md",
