@@ -22,34 +22,6 @@
             }
           },
           {
-            "id": "c7e80920eff6d910",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GDD"
-            }
-          },
-          {
-            "id": "22be3abc73a8ab8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "cb9a7930916ca6e4",
             "type": "leaf",
             "state": {
@@ -77,8 +49,7 @@
               "title": "GDD"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,17 +220,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7e80920eff6d910",
+  "active": "afbce3f75f4f3d27",
   "lastOpenFiles": [
-    "index.md",
+    "GDD 1.md",
     "GDD.md",
+    "index.md",
+    "promt-log.md",
+    "未命名.md",
+    "未命名",
     "logs/gdd-log.md.md",
     "asset-list.md",
     "README.md.md",
-    "promt-log.md",
     "logs/Журнал обновления игры.md",
     "reports 1",
-    "未命名.md",
     "media/3d",
     "media/video",
     "media/audio",
@@ -267,7 +240,6 @@
     "images/raw",
     "images/selected",
     "images",
-    "workflows",
-    "reports"
+    "workflows"
   ]
 }
